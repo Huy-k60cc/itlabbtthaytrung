@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomConnectionPool.iml" filepath="$PROJECT_DIR$/CustomConnectionPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mavenjdbc/mavenjdbc.iml" filepath="$PROJECT_DIR$/../mavenjdbc/mavenjdbc.iml" />
+    </modules>
+  </component>
+</project>
